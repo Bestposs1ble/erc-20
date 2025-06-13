@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BP Token DApp</title>
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.6.4/dist/ethers.umd.min.js"></script>
+  <script defer src="app.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-center p-8">
+  <h1 class="text-3xl font-bold mb-6">🎉 BP Token DApp</h1>
+
+  <button id="connect" class="bg-blue-500 text-white px-4 py-2 rounded mb-6">连接钱包</button>
+
+  <div id="accountInfo" class="hidden">
+    <p>账户地址: <span id="account" class="font-mono"></span></p>
+    <p>ETH 余额: <span id="ethBalance"></span></p>
+    <p>BP 余额: <span id="tokenBalance"></span></p>
+
+    <div class="mt-6">
+      <input id="toAddress" type="text" placeholder="收款地址" class="border p-2 w-80 mb-2"/><br/>
+      <input id="amount" type="number" placeholder="数量 (BP)" class="border p-2 w-80 mb-2"/><br/>
+      <button id="transfer" class="bg-green-500 text-white px-4 py-2 rounded">转账</button>
+    </div>
+  </div>
+</body>
+</html>
