@@ -1,13 +1,1 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+通过本地ganache网络，部署基础的erc-20合约，发行自己的代币，再导入metamask中体验转账功能。![image](https://github.com/user-attachments/assets/c9fb9837-9bea-41a3-9c5b-b0ac895c5712)
