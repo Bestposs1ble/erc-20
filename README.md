@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-BP DeFi DApp 是一个基于以太坊的去中心化金融（DeFi）应用，支持用户发行BP代币、钱包交互、转账，并计划实现BP抵押借ETH的Aave风格借贷功能。适合区块链初学者和开发者学习与实践。
+BP DApp 支持用户发行BP代币、钱包交互、转账，[并计划实现BP抵押借ETH的Aave风格借贷功能](https://github.com/Bestposs1ble/defi)。适合区块链初学者和开发者学习与实践。
 
 ## 功能特色
 
