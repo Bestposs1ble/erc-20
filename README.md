@@ -11,7 +11,7 @@ BP DeFi DApp 是一个基于以太坊的去中心化金融（DeFi）应用，支
 - 🚀 一键发行BP（BestPossible）ERC-20代币
 - 🔗 支持MetaMask钱包连接与交互
 - 💸 BP代币转账
-- 🏦 计划支持BP抵押借ETH（Aave风格）
+- 🏦 计划支持BP抵押借ETH（[Aave风格](https://github.com/Bestposs1ble/defi)） 
 - 🧑‍💻 代码开源，易于二次开发
 
 ## 快速开始
@@ -46,7 +46,7 @@ BP DeFi DApp is an Ethereum-based decentralized finance (DeFi) application. User
 - 🚀 One-click BP (BestPossible) ERC-20 token deployment
 - 🔗 MetaMask wallet connection and interaction
 - 💸 BP token transfer
-- 🏦 BP as collateral to borrow ETH (Aave style, coming soon)
+- 🏦 BP as collateral to borrow ETH ([Aave style, coming soon](https://github.com/Bestposs1ble/defi))
 - 🧑‍💻 Open source and easy to extend
 
 ## Quick Start
