@@ -39,7 +39,7 @@ BP DApp 支持用户发行BP代币、钱包交互、转账，[并计划实现BP�
 
 ## About
 
-BP DeFi DApp is an Ethereum-based decentralized finance (DeFi) application. Users can issue BP tokens, interact with wallets, transfer tokens, and (in the future) use BP as collateral to borrow ETH in an Aave-like lending system. This project is suitable for blockchain beginners and developers to learn and practice.
+BP  DApp . Users can issue BP tokens, interact with wallets, transfer tokens, [and (in the future) use BP as collateral to borrow ETH in an Aave-like lending system](https://github.com/Bestposs1ble/defi). This project is suitable for blockchain beginners and developers to learn and practice.
 
 ## Features
 
